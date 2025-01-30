@@ -1,0 +1,213 @@
+body {
+    background: radial-gradient(circle at 76% 26%, #272727 0, #171717 57%, #181818 100%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #171717;
+    overflow: hidden;
+}
+
+.skittles {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 100px;
+    text-align: center;
+    z-index: 2;
+    rotate: 50deg;
+    width: 100px;
+}
+
+.skittle {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 80px;
+    right: 0px;
+    top: 175px;
+    text-align: center;
+    z-index: 1;
+    rotate: 60deg;
+    width: 50px;
+}
+
+.head {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 210px;
+    right: 0px;
+    top: 250px;
+    text-align: center;
+    z-index: 1;
+    rotate: 70deg;
+    width: 100px;
+}
+
+.mouth {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 150px;
+    right: 0px;
+    top: 275px;
+    text-align: center;
+    z-index: 3;
+    rotate:70deg;
+    width: 40px;
+}
+
+.screen {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0px;
+    right: 150px;
+    top: 200px;
+    text-align: center;
+    z-index: 3;
+    width: 200px;
+}
+
+.fortnite {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0px;
+    right: 150px;
+    top: 200px;
+    text-align: center;
+    z-index: 2;
+    width: 200px;
+}
+
+.controller {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 70px;
+    right: 0px;
+    top: 350px;
+    text-align: center;
+    z-index: 2;
+    width: 50px;
+    rotate: -70deg;
+}
+
+.airpod {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 300px;
+    right: 0px;
+    top: 400px;
+    text-align: center;
+    z-index: 2;
+    width: 100px;
+}
+.iphone {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0px;
+    right: 0px;
+    top: 500px;
+    text-align: center;
+    z-index: 2;
+    width: 100px;
+}
+.blender {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 800px;
+    right: 00px;
+    top: 500px;
+    text-align: center;
+    z-index: 2;
+    width: 100px;
+}
+
+.spotify {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0px;
+    right: 600px;
+    top: 100px;
+    text-align: center;
+    z-index: 2;
+    width: 100px;
+}
+.instagram {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0px;
+    right: 1000px;
+    top: 250px;
+    text-align: center;
+    z-index: 2;
+    width: 100px;
+}
+
+.one {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 500px;
+    right: 0px;
+    top: 50px;
+    text-align: center;
+    z-index: 2;
+    color: white;
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.two {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 700px;
+    right: 0px;
+    top: 100px;
+    text-align: center;
+    z-index: 2;
+    color: rgb(163, 229, 255);
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.three {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 600px;
+    right: 0px;
+    top: 150px;
+    text-align: center;
+    z-index: 2;
+    color: rgb(92, 209, 255);
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.four {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 800px;
+    right: 0px;
+    top: 200px;
+    text-align: center;
+    z-index: 2;
+    color: rgb(0, 183, 255);
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
